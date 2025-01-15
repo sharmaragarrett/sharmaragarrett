@@ -1,4 +1,6 @@
-## Hi there 👋
+My name is Sharmara Garrett, 
+my school email is sgarrett2@my.waketech.edu,
+and this repository was made so that it can hold all my assisgnments.
 
 <!--
 **sharmaragarrett/sharmaragarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

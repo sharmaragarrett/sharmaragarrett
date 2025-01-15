@@ -1,3 +1,4 @@
+## Hi there 👋
 My name is Sharmara Garrett, 
 my school email is sgarrett2@my.waketech.edu,
 and this repository was made so that it can hold all my assisgnments.

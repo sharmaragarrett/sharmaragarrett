@@ -1,7 +1,7 @@
 # **Guessing.md**
 This is my lab 2 guessing game using mermaid to visually show how it works.
 ```mermaid
-flowchart TD
+flowchart LR
   Start([Start]) --> B(Generate a random integer between 1 and 10)
 B --> C(Guess  3)
 C --> D(If integer) & E(If not integer)
